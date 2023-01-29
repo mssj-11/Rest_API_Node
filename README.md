@@ -1,7 +1,7 @@
 #   REST API con Nodejs
 
 
-##  Iniciando la API: `node index.js`
+###  Iniciando el servidor de la API: `node index.js`
 ##  Métodos GET
 ### #1 Ingresando a la API
 Al ingresar a la dirección **http://localhost:80** nos deberá mostrar el mensaje agregado **Node js API**.
@@ -28,9 +28,9 @@ Usando la siguiente dirección: **http://localhost/api/estudiantes/6** , deberá
 
 ##  ---------------------------------------------------------------------------
 
-## Proceso de creación
+## Requerimientos y Proceso de creación
 
-### Creación de los componentes: `npm init`
+### Creación de los componentes de Node: `npm init`
 Configuración para este proyecto básico.
 En **nombre** se asigno **nodeapi** y en los demás no hubo configuración y solo es dar un ENTER.
 
